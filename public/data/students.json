@@ -1,0 +1,159 @@
+{
+  "classes": [
+    {
+      "class_name": "Class One",
+      "students": [
+        { "name": "John Smith", "id": "1001", "grade": 85, "percentage": 85.0 },
+        {
+          "name": "Emily Johnson",
+          "id": "1002",
+          "grade": 78,
+          "percentage": 78.0
+        },
+        {
+          "name": "Michael Williams",
+          "id": "1003",
+          "grade": 92,
+          "percentage": 92.0
+        },
+        { "name": "Emma Jones", "id": "1004", "grade": 89, "percentage": 89.0 },
+        {
+          "name": "Daniel Brown",
+          "id": "1005",
+          "grade": 75,
+          "percentage": 75.0
+        },
+        {
+          "name": "Olivia Davis",
+          "id": "1006",
+          "grade": 83,
+          "percentage": 83.0
+        },
+        {
+          "name": "Matthew Miller",
+          "id": "1007",
+          "grade": 91,
+          "percentage": 91.0
+        },
+        { "name": "Ava Wilson", "id": "1008", "grade": 86, "percentage": 86.0 },
+        {
+          "name": "William Taylor",
+          "id": "1009",
+          "grade": 79,
+          "percentage": 79.0
+        },
+        {
+          "name": "Sophia Anderson",
+          "id": "2010",
+          "grade": 88,
+          "percentage": 88.0
+        }
+      ]
+    },
+    {
+      "class_name": "Class Two",
+      "students": [
+        {
+          "name": "Liam Martinez",
+          "id": "2001",
+          "grade": 90,
+          "percentage": 90.0
+        },
+        {
+          "name": "Isabella Hernandez",
+          "id": "2002",
+          "grade": 82,
+          "percentage": 82.0
+        },
+        {
+          "name": "Mason Gonzalez",
+          "id": "2003",
+          "grade": 87,
+          "percentage": 87.0
+        },
+        { "name": "Mia Lopez", "id": "2004", "grade": 94, "percentage": 94.0 },
+        {
+          "name": "James Perez",
+          "id": "2005",
+          "grade": 76,
+          "percentage": 76.0
+        },
+        {
+          "name": "Harper Rodriguez",
+          "id": "2006",
+          "grade": 81,
+          "percentage": 81.0
+        },
+        {
+          "name": "Benjamin Cruz",
+          "id": "2007",
+          "grade": 93,
+          "percentage": 93.0
+        },
+        {
+          "name": "Evelyn Moore",
+          "id": "2008",
+          "grade": 85,
+          "percentage": 85.0
+        },
+        { "name": "Logan Hill", "id": "2009", "grade": 78, "percentage": 78.0 },
+        { "name": "Avery Scott", "id": "2010", "grade": 89, "percentage": 89.0 }
+      ]
+    },
+    {
+      "class_name": "Class Three",
+      "students": [
+        {
+          "name": "Alexander King",
+          "id": "3001",
+          "grade": 88,
+          "percentage": 88.0
+        },
+        {
+          "name": "Charlotte Green",
+          "id": "3002",
+          "grade": 85,
+          "percentage": 85.0
+        },
+        {
+          "name": "Daniel Baker",
+          "id": "3003",
+          "grade": 79,
+          "percentage": 79.0
+        },
+        {
+          "name": "Sophia Adams",
+          "id": "3004",
+          "grade": 91,
+          "percentage": 91.0
+        },
+        { "name": "Logan Hill", "id": "3005", "grade": 84, "percentage": 84.0 },
+        {
+          "name": "Isabella Hughes",
+          "id": "3006",
+          "grade": 90,
+          "percentage": 90.0
+        },
+        {
+          "name": "William Campbell",
+          "id": "3007",
+          "grade": 77,
+          "percentage": 77.0
+        },
+        { "name": "Ava Ward", "id": "3008", "grade": 92, "percentage": 92.0 },
+        {
+          "name": "Benjamin Russell",
+          "id": "3009",
+          "grade": 83,
+          "percentage": 83.0
+        },
+        {
+          "name": "Madison Price",
+          "id": "3010",
+          "grade": 86,
+          "percentage": 86.0
+        }
+      ]
+    }
+  ]
+}
